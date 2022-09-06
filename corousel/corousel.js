@@ -4,11 +4,11 @@ document.getElementById("play-forward-btn").addEventListener("click", () => {
 
   
   //   container.style.marginLeft = Number(container.style.marginLeft) - 100;
-  container.style.translateX-=15;
+  container.style.marginLeft-= '100px';
   container.style.backgroundColor = 'red';
   console.log("cdfcdcdsc",container.style);
 //   Number(container.style.marginLeft) - 100;
-//   $("#container").css({ marginLeft: "-=15px" });
+  $("#container").css({ marginLeft: "-=15px" });
 
 
 

@@ -602,3 +602,24 @@ section:nth-child(even){
     justify-content: center;
     align-items: center;
 }
+
+#request-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2EBF91;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+#btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#heading{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
