@@ -1,0 +1,26 @@
+#corousel{
+    /* border: 5px solid black;; */
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#container{
+    width: 800px;
+    /* border: 5px solid black; */
+    height: 420px;
+    overflow: hidden;
+    margin-left:  0 px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#play-forward-btn {
+    width: 100px;
+    height: 100px;
+}
+#play-backward-btn{
+    width: 100px;
+    height: 100px;
+}
